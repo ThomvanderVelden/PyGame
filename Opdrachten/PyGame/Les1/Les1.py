@@ -12,11 +12,12 @@ pygame.init()
 screen = pygame.display.set_mode((800, 400))
 pygame.display.set_caption('Eerste game!')
 clock = pygame.time.Clock()
+running = True
 
 surface = pygame.Surface((100, 100))
 surface.fill("blue")
 
-while True:
+while running:
 
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
