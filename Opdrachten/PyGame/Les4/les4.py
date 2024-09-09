@@ -5,6 +5,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 400))
 pygame.display.set_caption('Auto rijden!')
 clock = pygame.time.Clock()
+running = True
 
 background_surface = pygame.Surface((800, 400))
 background_surface.fill("white")
