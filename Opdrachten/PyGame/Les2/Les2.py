@@ -1,3 +1,23 @@
+'''
+Gegeven zijn: een horror font dat "voetbal game" op het scherm zet en een plaatje van een bal.
+
+We gaan de game aanpassen zodat het er beter uit ziet.
+
+Doe het volgende:
+
+  - Download een toepasselijk font en maak hiermee een scoreboard
+  - Download 2 plaatjes van voetballers en zet deze tegenover elkaar op het scherm
+  - Zet de bal in het midden van de scherm
+
+Extra tijd:
+
+  - Voeg 2 goals toe (links en rechts)
+  - Voeg een toepasselijke achtergrond toe
+  - Schrijf de namen van de spelers ergens op het scherm
+
+Slides: https://docs.google.com/presentation/d/1c4C94q8OcMGCIFefVo18Xac4WIFJacq5Eutj1gY6rCg/edit?usp=sharing
+'''
+
 import pygame
 
 pygame.init()
