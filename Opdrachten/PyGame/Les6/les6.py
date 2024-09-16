@@ -10,13 +10,13 @@
 
 # Slides: https://docs.google.com/presentation/d/1tbN7TAxkqwNQWe_fMOwF1KD4o2V5aJktcSooPF9WZaY/edit?usp=sharing
 
-import pygame
+import pygame, sys
+from pygame.locals import QUIT
 
 pygame.init()
 screen = pygame.display.set_mode((400, 300))
 pygame.display.set_caption('Keyboard')
 clock = pygame.time.Clock()
-running = True
 
 background_surface = pygame.Surface((400, 300))
 background_surface.fill("white")
@@ -26,11 +26,12 @@ pikachu_rect = pikachu_surface.get_rect(topleft = (180, 20))
 
 zwaartekracht = 0
 
-while running:
+while True:
   
   for event in pygame.event.get():
     if event.type == QUIT:
-      running = False
+      pygame.quit()
+      sys.exit() 
       
     if event.type == pygame.KEYDOWN:
       if event.key == pygame.K_SPACE:
