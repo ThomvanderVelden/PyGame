@@ -24,7 +24,7 @@ background_surface.fill("white")
 enemy_surface = font.render("Dood!", False, "red")
 enemy_rect = enemy_surface.get_rect(center= (300, 200))
 
-pikachu_surface = pygame.image.load("graphics/thom.png").convert_alpha()
+pikachu_surface = pygame.image.load("graphics/pikachu.png").convert_alpha()
 pikachu_rect = pikachu_surface.get_rect(topleft = (180, 20))
 
 zwaartekracht = 0
