@@ -11,4 +11,5 @@ Slides les 4 PyGame: https://docs.google.com/presentation/d/1VjYiTjIcSU_x6R_K0pP
 Slides les 5 PyGame: https://docs.google.com/presentation/d/1tnd7la5uNy5jzyHuBGmD2M-jPWfoy2RBY6XqtKHJ1zY/edit?usp=sharing  
 Slides les 6 PyGame: https://docs.google.com/presentation/d/1tbN7TAxkqwNQWe_fMOwF1KD4o2V5aJktcSooPF9WZaY/edit?usp=sharing  
 Slides les 7 Pygame: https://docs.google.com/presentation/d/1fzbS39wrbh226ts72wHhQzyjpxuYxhqV9pEE8XcwTPM/edit?usp=sharing  
-Slides les 8 PyGame: https://docs.google.com/presentation/d/1fypqkKR8hXHAcCNLEhVTnleWQov4aNpeM4in-MXKF1Q/edit?usp=sharing
+Slides les 8 PyGame: https://docs.google.com/presentation/d/1fypqkKR8hXHAcCNLEhVTnleWQov4aNpeM4in-MXKF1Q/edit?usp=sharing  
+Slides les 9 PyGame: https://docs.google.com/presentation/d/1AjPKbiMNTvNH7OXDDfcAExbBsFgUfxCbpHkF-Z1j8Uo/edit?usp=sharing
