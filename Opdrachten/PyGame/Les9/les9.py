@@ -1,3 +1,10 @@
+# Het lopen van de speler is al geanimeerd!
+
+# Voeg comments aan de code die uitleggen wat de code doet.
+
+# Voeg hierna de jump animatie toe. Op dit moment gaat dezelfde animatie verder als de speler springt.
+# Zorg ervoor dat de speler een jump animatie krijgt als de speler springt.
+
 import pygame, sys
 from pygame.locals import QUIT  
 
