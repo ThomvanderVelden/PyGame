@@ -13,3 +13,4 @@ Slides les 7 Pygame: https://docs.google.com/presentation/d/1fzbS39wrbh226ts72wH
 Slides les 8 PyGame: https://docs.google.com/presentation/d/1fypqkKR8hXHAcCNLEhVTnleWQov4aNpeM4in-MXKF1Q/edit?usp=sharing  
 Slides les 9 PyGame: https://docs.google.com/presentation/d/1AjPKbiMNTvNH7OXDDfcAExbBsFgUfxCbpHkF-Z1j8Uo/edit?usp=sharing  
 Slides les 10 PyGame: https://docs.google.com/presentation/d/1rwoyFrUMUiBZXo3t3UJopaLPacAawQp9MEkygpJojkk/edit?usp=sharing
+Slides Solo Game: https://docs.google.com/presentation/d/1KTokJ_yaUR3XmD0LS9KlguGK3iB-R92Oj35Z3ySDwA4/edit?usp=sharing  
