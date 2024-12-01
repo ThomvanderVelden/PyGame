@@ -14,7 +14,7 @@ Slides les 8 PyGame: https://docs.google.com/presentation/d/1fypqkKR8hXHAcCNLEhV
 Slides les 9 PyGame: https://docs.google.com/presentation/d/1AjPKbiMNTvNH7OXDDfcAExbBsFgUfxCbpHkF-Z1j8Uo/edit?usp=sharing  
 Slides les 10 PyGame: https://docs.google.com/presentation/d/1rwoyFrUMUiBZXo3t3UJopaLPacAawQp9MEkygpJojkk/edit?usp=sharing  
 Slides Solo Game: https://docs.google.com/presentation/d/1KTokJ_yaUR3XmD0LS9KlguGK3iB-R92Oj35Z3ySDwA4/edit?usp=sharing  
-Video Classes 1: https://www.youtube.com/watch?v=f0TrMH9s-VE&t=239s  
+Video Classes 1: https://www.youtube.com/watch?v=f0TrMH9s-VE  
 Video Classes 2: https://www.youtube.com/watch?v=cgxTwQT1ahw (Tot minuut 10, je mag verder kijken en dat zal ook heel nuttig zijn voor je volgende game, maar dat is geen toetsstof.)  
 
 Opdracht classes: Herschrijf je sologame waarbij je gebruikt maakt van minimmaal 1 class die er nog niet in zat!  
