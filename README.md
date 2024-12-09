@@ -18,3 +18,6 @@ Video Classes 1: https://www.youtube.com/watch?v=f0TrMH9s-VE
 Video Classes 2: https://www.youtube.com/watch?v=cgxTwQT1ahw (Tot minuut 10, je mag verder kijken en dat zal ook heel nuttig zijn voor je volgende game, maar dat is geen toetsstof.)  
 
 Opdracht classes: Herschrijf je sologame waarbij je gebruikt maakt van minimmaal 1 class die er nog niet in zat!  
+
+Oefentoets Link: https://docs.google.com/document/d/19QBfwFQCysL6cFVfyrUBBt2TS9E7TaPgJK4irt8A8SA/edit?usp=sharing  
+Antwoorden Oefentoets Link: https://docs.google.com/document/d/15JoZoqJsAIIjemhkqlvZtIwtCjJrkt5G/edit?usp=sharing&ouid=101690537606215604510&rtpof=true&sd=true
