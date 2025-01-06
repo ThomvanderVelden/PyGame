@@ -21,3 +21,5 @@ Opdracht classes: Herschrijf je sologame waarbij je gebruikt maakt van minimmaal
 
 Oefentoets Link: https://docs.google.com/document/d/19QBfwFQCysL6cFVfyrUBBt2TS9E7TaPgJK4irt8A8SA/edit?usp=sharing  
 Antwoorden Oefentoets Link: https://docs.google.com/document/d/15JoZoqJsAIIjemhkqlvZtIwtCjJrkt5G/edit?usp=sharing&ouid=101690537606215604510&rtpof=true&sd=true
+
+Slides PyGame Duo Game: https://docs.google.com/presentation/d/1dfWK73tyAD79ztwdxVoPHaV6C3O2H8NzYVCVvo3Pq9k/edit?usp=sharing
